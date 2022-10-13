@@ -1,9 +1,22 @@
 # Git tutorial
 
 
+## Objects Types
+
+### Trees
+### Blob
+### Commit 
+### Annoted Tag
+
+
+## Merging
 
 
 
+## Pull Request
 
 
-Copy rights reserved by vintage-coder@2022
+## Fetch
+
+
+copy rights reserved by vintage-coder@2022
