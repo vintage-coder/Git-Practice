@@ -1,3 +1,5 @@
 just another file added in feature-1 branch
 
 add another file was modified
+
+This line was added in feature-2 branch
